@@ -88,5 +88,8 @@ fun ImageCard(item: ImageItem) {
 val imageList = listOf(
     ImageItem("Montaña", "Paisaje de montaña", "https://picsum.photos/id/10/600/400"),
     ImageItem("Bosque", "Bosque con niebla", "https://picsum.photos/id/20/600/400"),
-    ImageItem("Ciudad", "Ciudad de noche", "https://picsum.photos/id/30/600/400")
+    ImageItem("Ciudad", "Ciudad de noche", "https://picsum.photos/id/30/600/400"),
+    ImageItem("Playa", "Mar azul y arena blanca", "https://picsum.photos/id/40/600/400"),
+    ImageItem("Desierto", "Dunas doradas al atardecer", "https://picsum.photos/id/50/600/400"),
+    ImageItem("Lago", "Reflejos en el agua cristalina", "https://picsum.photos/id/60/600/400")
 )
